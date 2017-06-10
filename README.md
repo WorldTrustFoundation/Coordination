@@ -4,6 +4,6 @@ Ce répertoire donne à voir de les efforts de coordination des contributeurs de
 
 ## Biennale de Design
 
-Ce dépot contient tous les éléments de coordination de la 1ère version de l'exposition, présenté sur la Biennale de Design 2017. 
+Ce dépot contient les éléments de coordination de la V1 de l'exposition, présentéesur la Biennale de Design 2017. 
 
 
