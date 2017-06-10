@@ -4,6 +4,6 @@ Ce répertoire donne à voir les efforts de coordination des contributeurs de l'
 
 ## Biennale de Design (V1)
 
-Ce [dépot](https://github.com/WorldTrustFoundation/Coordination/tree/master/Biennale-Design-2017) contient les éléments de coordination de la version 0.1 de l'exposition (Biennale Internationale de Design 2017).
+Ce [dépot](https://github.com/WorldTrustFoundation/Coordination/tree/master/Biennale-Design-2017) contient les éléments de coordination de la 1ère version de l'exposition (Biennale Internationale de Design 2017).
 
 
