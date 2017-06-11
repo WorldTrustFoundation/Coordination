@@ -1,7 +1,7 @@
 
 # Catalogue des ressources
 
-## 5.0 Origines
+## Origines
 * Territoires en Transitions à l'ère du numérique 2010 : http://movilab.org/index.php?title=TT10
 * Territoires en Transitions à l'ère du numérique 2012 : http://movilab.org/index.php?title=TT12
 * "Laboratoire Urbain" : http://carton-plein.org/index.php/le-laboratoire-urbain/-tiers-lieu/
@@ -11,34 +11,34 @@
 * Atelier 'Design Moi un Tiers-Lieux' (sur la Biennale 2015) : DM1TL Design moi un tiers lieux
 * Les Tiers-Lieux sur la Biennale du Design de l'année 2017 : https://frama.link/TILIOS-2017
 
-## 5.1 Contribution
+## Contribution
 * La liste des contributeurs.trices de la WTF Fondation : Contributeurs World Trust Foundation
 * Les co-commissaires : https://frama.link/BiennaleDesign17-ForkTheWorld-Cocommissaires
 * Contrat de concierge de Yoann : https://frama.link/BiennaleDesign17-ForkTheWorld-Contrat
 
-## 5.2 Gouvernance
+## Gouvernance
 * La liste des participants du conseil collégial : https://frama.link/biennale2017-conseilcollegial
 * Documentation du conseil collégial du 21-22/11/2016 : Conseil collégial de l'expérience 
 * Budget Prévisionnel : https://frama.link/BiennaleDesign17-ForkTheWorld-Previsionnel
 * Budget de la MYNE : https://frama.link/BiennaleDesign17-ForkTheWorld-Budget-MYNE
 
-## 5.3 Communication
+## Communication
 * Affiches : https://www.flickr.com/photos/sylviafredriksson/albums/72157681369649975
 * Les fichiers (Drive) des affiches [Indesign + Polices + JPG (web) + PDF (Impression)]
 * Tutoriel pour fabriquer son affiche : Comment crer une affiche annonce d'événement
 * (Non) Restitution : https://storify.com/nicolasloubet/biennaledesign17-forktheworld
 
-## 5.4 Événements
+## Événements
 * Agenda (adaptatif et contributif) : https://frama.link/BiennaleDesign17-ForkTheWorld-Agenda
 * 'Programmation' IN' de la première phase de l'expérience : https://frama.link/nKFhdgcU
 * Restitution de l'expérience tiers-lieux : https://frama.link/BiennaleDesign17-ForkTheWorld-End
 
-## 5.5 Suivi web
+## Suivi web
 * Carnet de bord global de l'expérience Tiers-Lieux : Carnet de bord 'ForkTheWorld'
 * Suivi en images de l'expérience Tiers-Lieux : https://www.sharypic.com/yii1053jns2jfnd6/all
 * Groupe Telegram pour le suivi (frugal) à distance : https://telegram.me/forktheworld
 
-## 5.6 Exposition
+## Exposition
 * La sécurité sur le site et les éléments concernant les projets : Sécurité à la Biennale
 * Les fiches du collectif RDC (identité visuelle) : https://frama.link/biennale2017-visuels
 * Les textes de l'exposition : https://frama.link/BiennaleDesign17-ForkTheWorld-Expo
@@ -48,13 +48,13 @@
 * Feedbacks de "contributeurs" : Feedbacks de l'exprience tiers lieux ForkTheWorld
 * Controverse autour de l'expo : Controverses autour de l'exposition ForkTheWorld
 
-## 5.7 Invention
+## Invention
 * Suivi du groupe projet DoZE Parc (proposé par la MYNE) : Carnet de bord de DoZE Parc
 * Suivi du groupe projet DAISEE (co-produit par la MYNE, Cellabz) : Carnet de bord de DAISEE
 * Suivi du groupe projet FOREST AS A DAO (Isabelle, Xavier) : Carnet de bord Forest as a DAO
 * Suivi du groupe projet KODEAL (amorcé par Yoann & "forké" par Sylvia & co.) : KODEAL
 
-## 5.8 Réflexion
+## Réflexion
 * Témoignage du collectif BAM et Paul (Post Piper) : Masterclass du Bam et DANT 
 * Témoignage d'Isabelle et Xavier (Forest as a DAO) : Masterclass 'Forest as a DAO'
 * Témoignage de François Huguet et Urban Focus : Masterclass Mesh & Friches
@@ -63,14 +63,14 @@
 * Témoignage de P. de Filippi sur les ex. de gouvernance : Masterclass de Primavera
 * Forum des "Transitions énergétiques" : (Un)confrence transition énergétique
 
-## 5.9 Fabrication
+## Fabrication
 * Atelier CAIRN avec P. Gourlet et T. Dassé : Atelier avec P. Gourlet et T. Dass
 * Atelier Tiers-Jardin avec Bruno Vitasse (Zone AH! & co) : Atelier Tiers Jardin
 * Chantier participatif 'Tiers-Jardin' avec Zone-AH! : Zone AH à la BiennaleDesign17
 * 48H Chrono au Mixeur (temps de création, invention, expérimentation partagé).
 * Remix de la "TAZ" avec Energy By Makers & DAISEE : TAZ de la Biennale17
 
-## 5.10 Recherche
+## Recherche
 * Recherche sur les Gouvernances Tiers-Lieux : SAS SCIC ou... DAO (GovBootcamp)
 * Recherche sur les Protocoles Tiers-Lieux : Catalogue des protocoles Tiers Lieux
 * Recherche sur le Design de (Processus en) Consensus : https://frama.link/designconsensus
