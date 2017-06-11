@@ -6,7 +6,7 @@
 * Territoires en Transitions à l'ère du numérique 2012 : http://movilab.org/index.php?title=TT12
 * "Laboratoire Urbain" : http://carton-plein.org/index.php/le-laboratoire-urbain/-tiers-lieu/
 * La Quinzaine des Tiers-Lieux Francophones en 2014 : https://frama.link/TILIOS-2014
-* La présentation de Rieul Techer sur 'La Paillasse Saône' : https://vimeo.com/95497741
+* La présentation de Rieul Techer de 'La Paillasse Saône' : https://vimeo.com/95497741
 * Semaine des Tiers-Lieux à la Biennale 2015 : https://frama.link/BiennaleDesign17-Tiers-lieux
 * Atelier 'Design Moi un Tiers-Lieux' (sur la Biennale 2015) : [Design moi un tiers lieux (DM1TL)](https://hackpad.com/2TYhyGkNjje)
 * Les Tiers-Lieux sur la Biennale du Design de l'année 2017 : https://frama.link/TILIOS-2017
