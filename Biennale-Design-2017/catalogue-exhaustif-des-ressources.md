@@ -44,8 +44,8 @@
 * Cartel Valeur : https://github.com/La-MYNE/BiennaleDesign17/blob/master/Valeur.md
 * L'archive de l'exposition : https://frama.link/BiennaleDesign17-ForkTheWorld-Archive
 * Une mise en forme avec GitBook : https://nicolasloubet.gitbooks.io/fork-the-world
-* Feedbacks de "contributeurs" : Feedbacks de l'exprience tiers lieux ForkTheWorld
-* Controverse autour de l'expo : Controverses autour de l'exposition ForkTheWorld
+* Feedbacks de "contributeurs" : [Feedbacks de l'exprience tiers lieux ForkTheWorld](https://hackpad.com/4RtjwanpAZK#:h=Alizée-:-&quot;Expositon-complète-m)
+* Controverse autour de l'expo : [Controverses autour de l'exposition ForkTheWorld](https://hackpad.com/E6Hi1JpiqD5)
 
 ## Invention
 * Suivi du groupe projet DoZE Parc (proposé par la MYNE) : [Carnet de bord de DoZE Parc](https://hackpad.com/98hpmej7KYH)
