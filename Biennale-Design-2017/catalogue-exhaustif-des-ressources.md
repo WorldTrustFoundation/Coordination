@@ -1,5 +1,5 @@
 
-# Catalogue des ressources
+# Catalogue de documentation
 
 ## Origines
 * Territoires en Transitions à l'ère du numérique 2010 : http://movilab.org/index.php?title=TT10
