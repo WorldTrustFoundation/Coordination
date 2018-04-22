@@ -315,7 +315,8 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 
 **Actualité**
 
-* Yoann a travaillé sur les situations de crise liées aux inondations de Paris. En cas de crise centennale, seront touchés 700k entreprises et 1 200k personnes (ce qui pourrait occasionner 84G€ de dégats!). Voir le rapport de l'OCDE : [https://www.oecd.org/gov/risk/Gestion-du-risque-inondation-seine-resume-executif.pdf](https://www.oecd.org/gov/risk/Gestion-du-risque-inondation-seine-resume-executif.pdf)
+* Yoann a travaillé sur les situations de crise liées aux inondations de Paris. En cas de crise centennale, seront touchés 700k entreprises et 1 200k personnes (ce qui pourrait occasionner 84G€ de dégats!). Voir le [rapport de l'OCDE](https://www.oecd.org/gov/risk/Gestion-du-risque-inondation-seine-resume-executif.pdf).
+
 * Vaison la Romaine a [pas mal d'expérience](https://fr.wikipedia.org/wiki/Inondation_de_Vaison-la-Romaine_en_septembre_1992). Ils ont un capital informationnel (commun) inexploité. Il y a une étude sur le[ site du Sénat ](http://www.senat.fr/rap/r11-775/r11-775_mono.html) ('_Se donner les moyens de ses ambitions : leçons des inondations du Var et du sud-est de la France_').
 
 * Voir les 4 participations au [Plan Loire Grandeur Nature](http://www.plan-loire.fr/fr/accueil/index.html) à Bruxelles pour le compte du WWF France et de Zoomacom &gt; [Groupe Recherche, données, information](http://www.plan-loire.fr/fr/les-plates-formes/recherche-donnees-information/index.html). Voir le 'Plan Loire Grandeur Nature' : [https://vimeo.com/45066415](https://vimeo.com/45066415)
