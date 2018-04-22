@@ -445,8 +445,7 @@ Comment structurer une vision de l'expo selon différents modes opératoires pou
 
 **2 cercles**
 
-* Un premier (interne) qui concerne la thématique
-* Un second (externe) sur la "méthode (i.g.: sur la thématique de l'énergie comment on travaille &gt; blockchain, inclusion, Casa Jasmina, Valldaura...)
+* Un premier (interne) qui concerne la thématique. Un second (externe) sur la "méthode (i.g.: sur la thématique de l'énergie comment on travaille &gt; blockchain, inclusion, Casa Jasmina, Valldaura...)
 
 <p align="center">
 <img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_organisations_2.png?raw=true" width="80%">
