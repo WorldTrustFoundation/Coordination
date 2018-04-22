@@ -474,13 +474,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 **Financement**
 
-* Une fois les intervenants définis, la Cité proposera des possibilités de financements pour la mise en place de l'exposition (les lignes budgétaires et montants max à ne pas dépasser) :
-* Coordination - Co-commissariat
-* Animation / Facilitation / etc.
-* Achat de ressources matérielles
-* Utilisation des ateliers de l'Ecole
-* Intervention d'experts étrangers
-
+* Une fois les intervenants définis, la Cité proposera des possibilités de financements pour la mise en place de l'exposition (les lignes budgétaires et montants max à ne pas dépasser) : (1) Coordination - Co-commissariat (2) Animation / Facilitation / etc. (3) Achat de ressources matérielles (4) Utilisation des ateliers de l'Ecole (5) Intervention d'experts étrangers.
 * Les moyens de départ doivent servir de leviers pour lever d'autres fonds (publics, privés).
 * Questions : Est-ce que l'effort de mobilisation sera financé ? Quelles suites attendues ?
 
