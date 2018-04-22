@@ -41,7 +41,7 @@ Cette page est un récit du processus de co-commissariat de l'[expérience Fork 
 
 # #15 (03/04/2017)
 
-[Préparation de la restitution de l'expérience Fork The World à la Biennale de Design](https://hackpad.com/KZsDrdSSgoi).
+[Préparation de la restitution de l'expérience Fork The World à la Biennale de Design](https://paper.dropbox.com/doc/BiennaleDesign17-Restitution-de-lexperience-ForkTheWorld-l5pRCZ85RSqzWqHX7BZtj).
 
 ---
 
