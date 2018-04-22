@@ -6,5 +6,5 @@ Ce répertoire donne à voir les efforts de coordination des contributeurs de l'
 
 ## Biennale de Design (V1)
 
-* [Historique du co-commissariat](https://github.com/WorldTrustFoundation/Coordination/blob/master/Biennale-Design-2017/forktheworld_coordination_biennale-2017.md)
-* [Catalogue de la documentation](https://github.com/WorldTrustFoundation/Coordination/blob/master/Biennale-Design-2017/catalogue-exhaustif-des-ressources.md)
+* [Historique du co-commissariat](https://github.com/WorldTrustFoundation/Coordination/blob/master/biennale-design-2017/forktheworld_coordination_biennale-2017.md)
+* [Catalogue de la documentation](https://github.com/WorldTrustFoundation/Coordination/blob/master/biennale-design-2017/catalogue-exhaustif-des-ressources.md)
