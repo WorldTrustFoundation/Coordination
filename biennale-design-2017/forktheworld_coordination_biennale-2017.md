@@ -77,13 +77,11 @@ Lancement de l'appel à contribution. Date max : 7 janvier 2017 (intégration du
 
 # #13 (21-22/11/2016)
 
-Première [rencontre effective du Conseil Collégial](https://hackpad.com/EBQ6ae0jDdQ) (à la Cité du Design).
+Première [rencontre effective du Conseil Collégial](https://paper.dropbox.com/doc/BiennaleDesign17-Conseil-collegial-de-lExperience-Tiers-Lieux-y8p8I2LZhWd9ylAYZak2n) (à la Cité du Design).
 
 **Conseil collégial à la Cité du design (salle 3 BDH 2ème étage), à l'attention de l'ensemble des membres du co-commissariat et des porteurs de projet et ateliers.**
 
-* Merci de nous indiquer vos plages de présence via ce Framadate.
-* Pour faciliter la prise en compte de l’ensemble des propositions par thématique, et ouvrir le conseil collégial aux participants qui ne pourraient être disponibles en présentiel, un appel à proposition est ouvert en ligne jusqu’au 21 novembre.
-* Pour plus de renseignements, merci de contacter Sylvia Fredriksson, pôle recherche de la Cité du design de Saint-Étienne : sylvia.fredriksson@citedudesign.com
+* Pour faciliter la prise en compte de l’ensemble des propositions par thématique, et ouvrir le conseil collégial aux participants qui ne pourraient être disponibles en présentiel, un appel à proposition est ouvert en ligne jusqu’au 21 novembre. Pour plus de renseignements, merci de contacter Sylvia Fredriksson, pôle recherche de la Cité du design de Saint-Étienne : sylvia.fredriksson@citedudesign.com
 
 **21/11 - Journée d’idéation**
 
