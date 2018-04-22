@@ -465,7 +465,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 **Modes d'organisation**
 
-* Le rôle des structures est de permettre le foisonnement des démonstrations, de montrer toutes les formes possibles de tiers lieux. Une diversité d'acteurs permettra ce foisonnement. On part sur cette base : OpenFactory, La MYNE, LBMG, OuiShare. Au sein de l'exposition, l'objectif serait de démontrer le capital informationnel commun entre toutes les formes de tiers lieux. A travers des conférences, des échanges et des démonstrations, les participants pourront voir un panel de possibilités de valeurs créées dans les tiers- lieux, et issus de modes de travail, de vie et d'être spécifiques (et passer à l'action).
+* Le rôle des structures est de permettre le foisonnement des démonstrations, de montrer toutes les formes possibles de tiers lieux. Une diversité d'acteurs permettra ce foisonnement (OpenFactory, La MYNE, LBMG, OuiShare). Au sein de l'exposition, l'objectif serait de démontrer le capital informationnel commun entre toutes les formes de tiers lieux. A travers des conférences, des échanges et des démonstrations, les participants pourront voir un panel de possibilités de valeurs créées dans les tiers- lieux, et issus de modes de travail, de vie et d'être spécifiques (et passer à l'action).
 * Une personne (tournante) serait chargée de faire le lien. Elle sera traductrice et créatrice de liens et d'interprétation.
 
 <p align="center">
