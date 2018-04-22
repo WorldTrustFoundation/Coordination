@@ -1,4 +1,4 @@
-# Coordination de la 1ère version de l'exposition (Biennale de Design, 2017)
+# Coordination de la V1 de l'exposition (Biennale de Design, 2017)
 
 Cette page est un récit du processus de co-commissariat de l'[expérience Fork The World](https://nicolasloubet.gitbooks.io/fork-the-world/content) en 2016-2017 Elle ne prétend pas TOUT restituer. Elle donne à voir les principales étapes (et difficultés) du processus. [[Source originale](https://paper.dropbox.com/doc/BiennaleDesign17-Carnet-de-lExperience-Tiers-lieux-ForkTheWorld-qNfwJeLVCBWoM4crQRsr1)]
 
