@@ -81,7 +81,7 @@ Première [rencontre effective du Conseil Collégial](https://paper.dropbox.com/
 
 **Conseil collégial à la Cité du design (salle 3 BDH 2ème étage), à l'attention de l'ensemble des membres du co-commissariat et des porteurs de projet et ateliers.**
 
-* Pour faciliter la prise en compte de l’ensemble des propositions par thématique, et ouvrir le conseil collégial aux participants qui ne pourraient être disponibles en présentiel, un appel à proposition est ouvert en ligne jusqu’au 21 novembre. Pour plus de renseignements, merci de contacter Sylvia Fredriksson, pôle recherche de la Cité du design de Saint-Étienne : sylvia.fredriksson@citedudesign.com
+* Pour faciliter la prise en compte de l’ensemble des propositions par thématique, et ouvrir le conseil collégial aux participants qui ne pourraient être disponibles en présentiel, un appel à proposition est ouvert en ligne jusqu’au 21 novembre. Pour plus de renseignements, merci de contacter Sylvia Fredriksson (sylvia[dot]fredriksson[at]citedudesign[dot]com).
 
 **21/11 - Journée d’idéation**
 
